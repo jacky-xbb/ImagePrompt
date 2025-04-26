@@ -1,7 +1,7 @@
 # Image Prompt AI: Powerful AI Image Generation & Text Conversion Suite
 
 [ImagePrompt AI](https://imageprompt.co)
-
+https://imageprompt.co
 
 ## Overview
 Image Prompt AI is a comprehensive platform bringing together the best AI image tools in one place. Whether you're generating stunning visuals from text prompts, extracting prompts from existing images, or enhancing your creative workflow, our suite of tools helps you harness the power of AI for your creative projects.
