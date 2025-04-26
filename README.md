@@ -1,6 +1,7 @@
 # Image Prompt AI: Powerful AI Image Generation & Text Conversion Suite
 
 [ImagePrompt AI](https://imageprompt.co)
+
 https://imageprompt.co
 
 ## Overview
