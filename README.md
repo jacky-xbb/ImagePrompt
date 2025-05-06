@@ -1,4 +1,4 @@
-# Image Prompt AI: Powerful AI Image Generation & Text Conversion Suite
+# ImagesArt AI: Powerful AI Image Generation & Text Conversion Suite
 
 [ImagesArt AI](https://imagesart.ai)
 
