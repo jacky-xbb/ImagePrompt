@@ -1,11 +1,12 @@
 # Image Prompt AI: Powerful AI Image Generation & Text Conversion Suite
 
-[ImagePrompt AI](https://imageprompt.co)
+[ImagesArt AI](https://imagesart.ai)
 
-https://imageprompt.co
+
+https://imagesart.ai
 
 ## Overview
-Image Prompt AI is a comprehensive platform bringing together the best AI image tools in one place. Whether you're generating stunning visuals from text prompts, extracting prompts from existing images, or enhancing your creative workflow, our suite of tools helps you harness the power of AI for your creative projects.
+ImagesArt AI is a comprehensive platform bringing together the best AI image tools in one place. Whether you're generating stunning visuals from text prompts, extracting prompts from existing images, or enhancing your creative workflow, our suite of tools helps you harness the power of AI for your creative projects.
 
 ## Key Features
 
@@ -39,10 +40,10 @@ Visit our documentation center to learn how to make the most of our tools:
 * Integration guides for developers
 
 ## Explore Our Tools
-* [Home Page](https://imageprompt.co)
-* [Text to Image Generator](https://imageprompt.co/ai-image-generator)
-* [Image to Prompt Converter](https://imageprompt.co/image-to-prompt)
-* [Batch Image Processing](https://imageprompt.co/batch-image-to-prompt)
-* [AI Image Description](https://imageprompt.co/ai-describe-image)
+* [Home Page](https://imagesart.ai)
+* [Text to Image Generator](https://imagesart.ai/ai-image-generator)
+* [Image to Prompt Converter](https://imagesart.ai/image-to-prompt)
+* [Batch Image Processing](https://imagesart.ai/batch-image-to-prompt)
+* [AI Image Description](https://imagesart.ai/ai-describe-image)
 
 Start creating amazing AI-generated images and unlocking the potential of visual AI today!
